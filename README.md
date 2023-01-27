@@ -1,5 +1,7 @@
 # Sales_Insight_Dashboard
-<h2>Screenshot Dashboard</h2>
+
+<b>Screenshot Dashboard<b>
+
 ![Sales_Project - Power BI](https://user-images.githubusercontent.com/54444557/215111829-a801d37c-8904-42d1-9a28-c5a14c2e9cb0.png)
 
 Screenshot of 2019 Dashboard
