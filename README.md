@@ -2,6 +2,13 @@
 
 Hello Everyone,
 
+Problem Statement:
+he Sales Director of Atliq Hardware, a firm with multiple branches across India, is struggling to effectively track and understand the performance of their sales in a rapidly growing market. Despite having regional managers for North, South, and Central India, the Director is finding it difficult to gain accurate insights from the sales data provided in the form of multiple excel files. This makes it challenging to identify trends, patterns, and potential issues. The Director recognizes the importance of tracking sales to stay informed about the company’s performance and make data-driven decisions to improve sales. In the event of a decline in sales, the Director wants to be able to quickly identify the cause and implement strategies such as promotional offers, marketing campaigns, or improved customer engagement to address the issue. To achieve this, the Director is seeking a more streamlined and easy-to-understand system for tracking sales, which would allow for more efficient communication and collaboration with regional managers.
+
+Solution:
+Sales director decided to hire a group of analysts to build interactive PowerBI dashboards so that he can track sales to stay informed about the performance of the company and identify any potential issues or areas for improvement.
+
+
 I would like to say this is my first PowerBI Dashboard that have recently created to generate sales insights for AtliQ Technologies.
 Learning from this project:-
 1. Getting data from MYSQL database to PowerBI
@@ -11,32 +18,7 @@ Learning from this project:-
 5. Creating Bar charts, Pie charts, Donut charts, Slicers, Area chart, Line and Clustered column chart and buttons
 6. Displaying different colors for the bars based on condition Building Dashboards , Publish and Sharing the Dashboards to public
 7. You can interact with the dashboard by clicking the below link
-8. 
-9. c
-10. c
-11. c
-12. c
-13. c
-14. c
-15. c
-16. c
-17. c
-18. 
-https://lnkd.in/g2AJMcUz
-
-Github repo link
-
-https://lnkd.in/g6NVjkeu
-
-Blog link
-
-https://lnkd.in/g2AytUfk
-
-My special thanks to Dhaval Patel and Hemanand Vadivel for their amazing tutorials in their PowerBI playlist of codebasics channel and @ ARSHDEEP SINGH for the wonderful End to End Power BI Project Series of End To End channel.
-
-Please feel free to share your thoughts and suggestions about the dashboard
-
-#dataanlytics #codebasics #mysql
+https://app.powerbi.com/reportEmbed?reportId=22971c39-cfdd-47ee-b5a5-5b3357c9188e&autoAuth=true&ctid=ce8bbc7c-6d62-46bb-ace6-e801ac5e22db
 
 
 <b>Screenshot Dashboard<b>
